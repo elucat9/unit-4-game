@@ -1,0 +1,57 @@
+body {
+    background-image: url("http://i.imgur.com/jhGO8A0.jpg?1");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+#title {
+    background-color:orange;
+    border: 5px solid orange;
+    height:80px;
+    width:310px;
+    color:white;
+    margin-left:30px;
+    margin-top: 30px;
+}
+
+#wl-count {
+    color: white;
+    
+}
+
+#instructions {
+    border: 5px solid peachpuff;
+    background: peachpuff;
+    color:green;
+    font-weight: bold;
+    margin-left:30px;
+    margin-top: 15px;
+}
+
+#target{
+    border: 5px solid seagreen;
+    background: seagreen;
+    width:150px;
+    height:100px;
+    color:black;
+    margin-left:45px;
+    margin-top: 10px;
+}
+
+#player-score {
+    border: 5px solid aquamarine;
+    background: aquamarine;
+    width:150px;
+    height:100px;
+    color:blue;
+    margin-left:45px;
+    margin-top: 10px;
+}
+
+img {
+    width: 100px;
+    height:100px;
+    margin-left:30px;
+    margin-top: 40px;
+}
